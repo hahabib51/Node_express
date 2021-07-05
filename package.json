@@ -1,0 +1,18 @@
+{
+  "name": "node_express_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "urls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamad Habib",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "supertest": "^6.1.3"
+  }
+}
